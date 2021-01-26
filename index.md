@@ -1,3 +1,3 @@
 # Welcome to my blog
-
+This is a test page to understand how guthub pages work
 I'm glad you are here. I plan to talk about ...
